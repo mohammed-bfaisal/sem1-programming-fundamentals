@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-    cout << "| \t \t \t \t | \n | \t \t \t | \n | \t \t | \n |" << endl;
+    cout << "| \t \t \t | \n \t | \t \t | \n \t \t | \t | \n |" << endl;
 }
