@@ -9,5 +9,4 @@ int main() {
     cin >> total_marks;
     per = (obt_marks / total_marks) * 100;
     cout << "The percentage is: " << per << "%" << endl;
-    return 0;
 }
