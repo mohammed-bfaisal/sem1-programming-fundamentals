@@ -9,4 +9,5 @@ int main() {
     cin >> w;
     a = l*w;
     cout << "Area is: " << a << endl;
+    return 0;
 }
