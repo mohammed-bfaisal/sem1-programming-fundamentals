@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int l, w, a;
+    float l, w, a;
     cout << "Enter the length of the rectangle/plot: ";
     cin >> l;
     cout << "Enter the width of the rectangle/plot: ";
