@@ -8,5 +8,5 @@ int main() {
     cout << "Enter the width of the rectangle/plot: ";
     cin >> w;
     a = l*w;
-    cout << "Area is" << a << endl;
+    cout << "Area is: " << a << endl;
 }
