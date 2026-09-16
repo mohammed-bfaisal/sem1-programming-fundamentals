@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "| \t \t \t \t | \n | \t \t \t | \n | \t \t | \n |" << endl;
+}
